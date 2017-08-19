@@ -2,7 +2,9 @@
 //
 
 #include "stdafx.h"
+#include "string"
 
+const std::string date_str = "19/08/2017 14:14";
 
 int main()
 {
