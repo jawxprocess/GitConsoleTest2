@@ -6,6 +6,7 @@
 
 int main()
 {
-    return 0;
+	printf_s("GitConsoleTest2 master branch");
+	return 0;
 }
 
