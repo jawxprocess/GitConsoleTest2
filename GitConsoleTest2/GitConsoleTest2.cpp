@@ -2,10 +2,13 @@
 //
 
 #include "stdafx.h"
+#include "string"
 
+const std::string date_str = "19/08/2017 14:20";
 
 int main()
 {
-    return 0;
+	printf_s("GitConsoleTest2 v01 branch");
+	return 0;
 }
 
